@@ -1,1 +1,1 @@
-# modpack-release
+# 十月模組包發布中心
